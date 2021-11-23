@@ -9,7 +9,7 @@
   width: 50%;
 }
 #breeds a:hover{
-  color: #292e33 !important;
+  color: #bb29bb !important;
 }
 #breeds a:active{
   color: #77aad9 !important;
@@ -18,7 +18,7 @@
   list-style-type: none;
 }
   #breeds a{
-    color: #bb29bb;
+    color: #000000;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.1;
